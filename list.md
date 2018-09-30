@@ -5,6 +5,8 @@
 - jumper wires
 
 
-##mobiles
+## mobiles
 - iphone
 - karbon
+- lenovo
+- nokia
