@@ -8,3 +8,4 @@
 ## mobiles
 - iphone
 - karbon
+- lenovo
