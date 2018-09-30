@@ -9,3 +9,4 @@
 - iphone
 - karbon
 - lenovo
+- nokia
