@@ -2,4 +2,4 @@
 - arduino
 - gyroscope
 - mp
-
+- jumper wires
